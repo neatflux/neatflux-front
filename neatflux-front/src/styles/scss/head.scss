@@ -1,0 +1,17 @@
+@import "bulma.scss";
+@import "fonts.scss";
+
+.App {
+	// height: 100%;
+	// width: 100%;
+	// background-image:-moz-linear-gradient(left, #331E36, #41337A);
+	.navbar {
+		background-image:-moz-linear-gradient(left, #331E36, #41337A);
+	}
+	.middle {
+		height: 70%;
+		// background-image:-moz-linear-gradient(left, #331E36, #41337A);
+	}
+}
+
+

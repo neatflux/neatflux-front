@@ -1,0 +1,76 @@
+
+.button .is-text {
+  text-decoration: none;
+}
+.ft-h1 {
+  color: #ffffff;
+  font-family: "Quicksand Regular";
+  font-size: calc(1.2rem + 1.4vw);
+  line-height: calc(1.3rem + 1.5vw);
+}
+
+.ft-h2 {
+  color: #381A6A;
+  font-family: "Lato Regular";
+  font-size: calc(1.2rem + 1.2vw);
+}
+
+.ft-h3 {
+  color: #03185E;
+  font-family: "Lato Regular";
+  font-size: calc(1.1rem + 0.4vw);
+}
+
+.ft-h3-white {
+  color: #ffffff;
+  font-family: "Lato Regular";
+  font-size: calc(1.1rem + 0.4vw);
+}
+
+.ft-headline {
+  color: #232946;
+  font-family: "Quicksand Regular";
+  font-size: calc(1.2rem + 1.4vw);
+}
+
+.ft-label {
+  color: #5872ED;
+  font-family: "Lato Bold";
+  font-size: calc(1rem + 0.1vw);
+  text-transform: uppercase;
+}
+
+.ft-label-white {
+  color: #ffffff;
+  font-family: "Lato Bold";
+  font-size: calc(1rem + 0.1vw);
+  text-transform: uppercase;
+}
+
+.ft-body {
+  color: #ffffff;
+  font-family: "Lato Regular";
+  font-size: calc(1rem + 0.1vw);
+  line-height: calc(25px + 0.3vw);
+  
+  strong {
+    color: #ffffff;
+    font-family: "Lato Bold";
+    font-size: calc(1rem + 0.1vw);
+    line-height: calc(25px + 0.3vw);
+  }
+}
+
+.ft-body-colo {
+  color: #666C84;
+  font-family: "Lato Regular";
+  font-size: calc(1em + 0.1vw);
+  line-height: calc(25px + 0.3vw);
+
+  strong {
+    color: #666C84;
+    font-family: "Lato Bold";
+    font-size: calc(1rem + 0.1vw);
+    line-height: calc(25px + 0.3vw);
+  }
+}

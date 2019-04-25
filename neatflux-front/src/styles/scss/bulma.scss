@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+// $primary: #5872ed;
+
+// $fullhd-enabled: false;
+
+// $fullhd: 1600px;
+// $widescreen: 1350px;
+// $desktop: 1180px;
+// $is-text: ;
+// $modal-content-width: 70%;
+
+.button .is-text {
+	text-decoration: none;
+  }
+
+@import "../../../node_modules/bulma/bulma.sass";

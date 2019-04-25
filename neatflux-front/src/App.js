@@ -1,17 +1,20 @@
 import React, { Component } from 'react';
-import { Button, Box } from "react-bulma-components/full";
-import './App.css';
+import './styles/css/head.css';
+
+import Navbar from "./components/Navbar";
 
 class App extends Component {
   render() {
     return (
-      <div className="App">
+      
+      <div className="App" >
+            <Navbar />
+             {/* <div className="middle" /> 
+             <div className="footer" />
+            <button className="button is-link">Plop </button> */}
 
-        <Box >
-        <Button> salut </ Button >
-        </Box > 
-        
-      </div>
+       </div>
+
     );
   }
 }
