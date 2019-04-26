@@ -1,7 +1,17 @@
 
-.button .is-text {
-  text-decoration: none;
+@font-face {
+  font-family: "Segoe Ui";
+  src: url("../../styles/fonts/segoe-ui.ttf");
 }
+  
+@font-face {
+  font-family: "Segoe Ui Bold";
+  src: url("../../styles/fonts/segoe-ui-bold.ttf");
+}
+
+
+
+
 .ft-h1 {
   color: #ffffff;
   font-family: "Quicksand Regular";

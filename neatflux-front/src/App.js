@@ -9,9 +9,6 @@ class App extends Component {
       
       <div className="App" >
             <Navbar />
-             {/* <div className="middle" /> 
-             <div className="footer" />
-            <button className="button is-link">Plop </button> */}
 
        </div>
 

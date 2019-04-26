@@ -7,11 +7,24 @@
 	// background-image:-moz-linear-gradient(left, #331E36, #41337A);
 	.navbar {
 		background-image:-moz-linear-gradient(left, #331E36, #41337A);
+		.navbar-menu {
+			background-image:-moz-linear-gradient(left, #331E36, #41337A);
+		}
+		.navbar_buttons:hover {
+			background-color: rgba(255, 255, 255, 0.2);
+		}
+		.navbar_buttons {
+			text-decoration: none;
+			color : white;
+			font-family: "Segoe Ui";
+		}
 	}
+
 	.middle {
 		height: 70%;
 		// background-image:-moz-linear-gradient(left, #331E36, #41337A);
 	}
 }
+
 
 
